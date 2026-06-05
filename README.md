@@ -8,10 +8,11 @@
 
 <h1 align="center">🔬 Edward's Data Lab</h1>
   <br>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Edward;Business+Data+Analyst+%7C+Applied+Finance+Student;Power+BI+%7C+SQL+%7C+Python+%7C+Advanced+Excel;Final-Year+%40+UEH-ISB+%C3%97+Western+Sydney+University"/>
   </a>
-</div>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trinpb04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
