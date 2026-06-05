@@ -16,9 +16,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tunguyenn99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=trinpb04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/tunguyenn99?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/trinpb04?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p align="center">
